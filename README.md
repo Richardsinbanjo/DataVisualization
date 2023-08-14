@@ -1,1 +1,4 @@
-# DataVisualization
+# DataVisualization: I learned much more on Using pivot charts on Visualizing data to give a more explantory view while beautifying it as well.![Data Visual of Blood Group](https://github.com/Richardsinbanjo/DataVisualization/assets/107754515/4c5a6d8f-3569-4666-8cc0-02a96c8ab222)
+Displaying the Average height and weight of medical students.![Data Visual of Average Height](https://github.com/Richardsinbanjo/DataVisualization/assets/107754515/a136da22-f8f5-488c-b60d-b70d8a0713c6)
+![Data Visual of Average Weight](https://github.com/Richardsinbanjo/DataVisualization/assets/107754515/6868be47-877d-4f98-8ec4-d30095127b0a)
+It will be helpful to understand the impact of the high amount of Diabetic students and hoepfully help to guide decision neeeded to be taken in the school. ![Visual of Diabetic Students](https://github.com/Richardsinbanjo/DataVisualization/assets/107754515/9759ff1d-d698-42a7-9d59-651af35dcb63)
